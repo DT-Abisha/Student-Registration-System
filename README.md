@@ -1,8 +1,8 @@
-# 🎓 Student Registration System
+# Student Registration System
 
 A simple and interactive frontend web application to register and manage student details.
 
-## 🚀 Features
+## Features
 - Student registration form
 - Input validation (Name, Phone, Email)
 - Add, Edit, and Delete student records
@@ -10,7 +10,7 @@ A simple and interactive frontend web application to register and manage student
 - Modern UI with animations
 - Responsive design
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - JavaScript (DOM Manipulation)
